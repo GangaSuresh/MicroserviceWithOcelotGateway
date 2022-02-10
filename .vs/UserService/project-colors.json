@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21b94108-8a8c-492a-91fa-80400ac6ea6a": {
+      "ProjectGuid": "21b94108-8a8c-492a-91fa-80400ac6ea6a",
+      "DisplayName": "UserService",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8a50a401-c76f-4bad-a6ff-3e7b9568c664": {
+      "ProjectGuid": "8a50a401-c76f-4bad-a6ff-3e7b9568c664",
+      "DisplayName": "ApiGateway",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
